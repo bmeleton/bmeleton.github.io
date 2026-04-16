@@ -32,7 +32,7 @@ img{max-width:100%;display:block}
   border-bottom:1px solid var(--border);
   box-shadow:var(--shadow);
   background: 
-    linear-gradient(rgba(8,8,12,0.01), rgba(8,8,12,.05)),
+    linear-gradient(rgba(8,8,12,0.1), rgba(8,8,12,.5)),
     url("assets/particle-header.PNG") center/cover no-repeat;
   backdrop-filter: blur(0px);
 }
