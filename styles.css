@@ -33,7 +33,7 @@ img{max-width:100%;display:block}
   box-shadow:var(--shadow);
   background:
     linear-gradient(rgba(8,8,12,.55), rgba(8,8,12,.78)),
-    url("assets/particle-header.png") center/cover no-repeat;
+    url("assets/particle-header.PNG") center/cover no-repeat;
   backdrop-filter: blur(6px);
 }
 .header-inner{
