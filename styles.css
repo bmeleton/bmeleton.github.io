@@ -31,8 +31,10 @@ img{max-width:100%;display:block}
   z-index:1000;
   border-bottom:1px solid var(--border);
   box-shadow:var(--shadow);
-  background: url("assets/particle-header.PNG") center/cover no-repeat;
-  backdrop-filter: blur(6px);
+  background: 
+    linear-gradient(rgba(8,8,12,0), rgba(8,8,12,.01)),
+    url("assets/particle-header.PNG") center/cover no-repeat;
+  backdrop-filter: blur(0px);
 }
 .header-inner{
   max-width:var(--maxw);
