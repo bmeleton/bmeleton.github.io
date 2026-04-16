@@ -87,7 +87,7 @@ img{max-width:100%;display:block}
 .dropdown-content{
   display:none;
   position:absolute;
-  top:calc(100% + 1px);
+  top:calc(100%);
   left:0;
   min-width:260px;
   background:rgba(14,18,26,.98);
